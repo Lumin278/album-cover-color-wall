@@ -1,0 +1,17 @@
+{
+  "Example Album": {
+    "artist": "Example Artist",
+    "rank": 1,
+    "songs": 8
+  },
+  "Another Example": {
+    "artist": "Second Artist",
+    "rank": 2,
+    "songs": 5
+  },
+  "Third Example": {
+    "artist": "Third Artist",
+    "rank": 3,
+    "songs": 2
+  }
+}

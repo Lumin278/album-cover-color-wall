@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_type": "manual",
+  "playlist": null,
+  "unique_tracks": null,
+  "duplicate_lines": 0,
+  "malformed_lines": [],
+  "artist_count": 3,
+  "artists": {
+    "Example Artist": {
+      "rank": 1,
+      "songs": null,
+      "share": null
+    },
+    "Second Artist": {
+      "rank": 2,
+      "songs": null,
+      "share": null
+    },
+    "Third Artist": {
+      "rank": 3,
+      "songs": null,
+      "share": null
+    }
+  }
+}
